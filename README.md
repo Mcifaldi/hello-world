@@ -1,2 +1,3 @@
 # hello-world
-Simple test depository
+
+Hello! I'm trying out Github for the first time.
